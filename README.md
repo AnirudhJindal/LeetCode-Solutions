@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0546-remove-boxes) |
+| [0695-max-area-of-island](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -67,4 +68,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+## Depth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+## Union-Find
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+## Matrix
+|  |
+| ------- |
+| [0695-max-area-of-island](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
