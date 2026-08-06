@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0546-remove-boxes) |
 | [0695-max-area-of-island](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
+| [1631-path-with-minimum-effort](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
 | ------- |
@@ -72,16 +74,28 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Union-Find
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
 |  |
 | ------- |
 | [0695-max-area-of-island](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
