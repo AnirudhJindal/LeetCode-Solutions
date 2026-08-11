@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0546-remove-boxes) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [0935-knight-dialer](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0935-knight-dialer) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1690-stone-game-vii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1690-stone-game-vii) |
