@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0546-remove-boxes) |
 | [0576-out-of-boundary-paths](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0576-out-of-boundary-paths) |
+| [0688-knight-probability-in-chessboard](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0688-knight-probability-in-chessboard) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0935-knight-dialer](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0935-knight-dialer) |
