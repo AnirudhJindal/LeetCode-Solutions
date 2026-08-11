@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0174-dungeon-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0416-partition-equal-subset-sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0494-target-sum) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0132-palindrome-partitioning-ii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0174-dungeon-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0174-dungeon-game) |
 | [0695-max-area-of-island](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [1631-path-with-minimum-effort](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 ## Heap (Priority Queue)
