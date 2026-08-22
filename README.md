@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0494-target-sum) |
 | [0546-remove-boxes](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0546-remove-boxes) |
+| [0560-subarray-sum-equals-k](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0877-stone-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0560-subarray-sum-equals-k](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
