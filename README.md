@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1690-stone-game-vii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1690-stone-game-vii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 ## Dynamic Programming
 |  |
 | ------- |
