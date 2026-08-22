@@ -60,11 +60,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3146-permutation-difference-between-two-strings](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
 |  |
 | ------- |
 | [0132-palindrome-partitioning-ii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0139-word-break) |
+| [3146-permutation-difference-between-two-strings](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Trie
 |  |
 | ------- |
