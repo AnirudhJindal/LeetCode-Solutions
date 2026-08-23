@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1690-stone-game-vii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1690-stone-game-vii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1690-stone-game-vii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Tree
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Queue
 |  |
 | ------- |
