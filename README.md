@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0546-remove-boxes](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0546-remove-boxes) |
 | [0560-subarray-sum-equals-k](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0877-stone-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0576-out-of-boundary-paths](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0576-out-of-boundary-paths) |
 | [0650-2-keys-keyboard](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0688-knight-probability-in-chessboard](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0688-knight-probability-in-chessboard) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0935-knight-dialer](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0935-knight-dialer) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+## Greedy
+|  |
+| ------- |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 <!---LeetCode Topics End-->
