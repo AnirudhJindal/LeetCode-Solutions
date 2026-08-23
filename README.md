@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0010-regular-expression-matching) |
 | [0132-palindrome-partitioning-ii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0132-palindrome-partitioning-ii) |
 | [0139-word-break](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0139-word-break) |
+| [0412-fizz-buzz](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Trie
 |  |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0412-fizz-buzz](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [0486-predict-the-winner](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0650-2-keys-keyboard](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Topological Sort
 |  |
