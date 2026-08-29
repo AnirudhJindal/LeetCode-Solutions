@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1690-stone-game-vii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1690-stone-game-vii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2367-number-of-arithmetic-triplets](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0139-word-break](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0560-subarray-sum-equals-k](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [2367-number-of-arithmetic-triplets](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
 |  |
@@ -229,8 +231,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0015-3sum) |
+## Enumeration
+|  |
+| ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 <!---LeetCode Topics End-->
