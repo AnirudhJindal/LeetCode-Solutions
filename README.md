@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0139-word-break](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0174-dungeon-game) |
@@ -226,5 +227,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0189-rotate-array](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0189-rotate-array) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
