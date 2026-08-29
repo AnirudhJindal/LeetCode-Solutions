@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1690-stone-game-vii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1690-stone-game-vii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [2974-minimum-number-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Trie
 |  |
