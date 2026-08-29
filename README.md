@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1690-stone-game-vii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1690-stone-game-vii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2652-sum-multiples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Tree
