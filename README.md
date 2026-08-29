@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1690-stone-game-vii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1690-stone-game-vii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
+| [2974-minimum-number-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Dynamic Programming
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1631-path-with-minimum-effort) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [2974-minimum-number-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2974-minimum-number-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Topological Sort
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0015-3sum) |
+| [2974-minimum-number-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2974-minimum-number-game) |
 ## Enumeration
 |  |
 | ------- |
