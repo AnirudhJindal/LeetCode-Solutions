@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2367-number-of-arithmetic-triplets](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2367-number-of-arithmetic-triplets) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## String
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0139-word-break) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0412-fizz-buzz](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0412-fizz-buzz) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Trie
 |  |
