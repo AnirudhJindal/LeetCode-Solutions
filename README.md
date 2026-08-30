@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [0935-knight-dialer](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0935-knight-dialer) |
+| [1012-numbers-with-repeated-digits](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1039-minimum-score-triangulation-of-polygon](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1039-minimum-score-triangulation-of-polygon) |
 | [1049-last-stone-weight-ii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1690-stone-game-vii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1690-stone-game-vii) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0486-predict-the-winner) |
 | [0650-2-keys-keyboard](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0650-2-keys-keyboard) |
 | [0877-stone-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/0877-stone-game) |
+| [1012-numbers-with-repeated-digits](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1012-numbers-with-repeated-digits) |
 | [1690-stone-game-vii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1690-stone-game-vii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
