@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1049-last-stone-weight-ii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1049-last-stone-weight-ii) |
 | [1690-stone-game-vii](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1690-stone-game-vii) |
 | [1786-number-of-restricted-paths-from-first-to-last-node](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1786-number-of-restricted-paths-from-first-to-last-node) |
+| [2719-count-of-integers](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2719-count-of-integers) |
 ## Backtracking
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2114-maximum-number-of-words-found-in-sentences) |
+| [2719-count-of-integers](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2719-count-of-integers) |
 | [3146-permutation-difference-between-two-strings](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3146-permutation-difference-between-two-strings) |
 ## Trie
 |  |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2652-sum-multiples) |
+| [2719-count-of-integers](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/2719-count-of-integers) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AnirudhJindal/LeetCode-Solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Tree
 |  |
